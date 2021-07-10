@@ -1,9 +1,9 @@
 ### 🚀 Hello there!
 I am Antonio and I'm a software engineer in Barcelona. I used to work in hospitality. I love challenges and solving puzzles; that's the reason why I'm a developer.
 
-
 - 🔭 I’m currently working on Tropical and QReceipt.
-- 
+- ⚡ Fun fact: I'm an outdoors person. I love hiking, beaching, dancing and learning. 
+
 </br> 
 
 ### Connect with me:
@@ -18,13 +18,13 @@ I am Antonio and I'm a software engineer in Barcelona. I used to work in hospita
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
 ### Languages and Tools:
