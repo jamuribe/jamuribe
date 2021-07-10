@@ -1,4 +1,4 @@
-### 🚀 Hello there!
+## 🚀 Hello there!
 I am Antonio and I'm a software engineer in Barcelona. I used to work in hospitality. I love challenges and solving puzzles; that's the reason why I'm a developer.
 
 - 🔭 I’m currently working on Tropical and QReceipt.
