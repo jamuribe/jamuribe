@@ -3,6 +3,7 @@ I am Antonio and I'm a software engineer in Barcelona. I used to work in hospita
 
 - 🔭 I’m currently working on Tropical and QReceipt.
 - ⚡ Fun fact: I'm an outdoors person. I love hiking, beaching, dancing and learning. 
+- 🌱 I’m interested in learning Python amd A.I.
 
 </br> 
 
