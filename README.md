@@ -1,7 +1,7 @@
 ## 🚀 Hello there!
 I am Antonio and I'm a software engineer in Barcelona. I used to work in hospitality. I love challenges and solving puzzles; that's the reason why I'm a developer.
 
-- 🔭 I’m currently working on Tropical and QReceipt.
+- 🔭 I’m currently working on SoliMar and QReceipt.
 - ⚡ Fun fact: I'm an outdoors person. I love hiking, beaching, dancing and learning. 
 - 🌱 I’m learning Python and A.I.
 
