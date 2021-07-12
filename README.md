@@ -8,9 +8,8 @@ I am Antonio and I'm a software engineer in Barcelona. I used to work in hospita
 </br> 
 
 ### Connect with me:
-[<img align="left" alt="jamu.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" LinkedIn" width="22px" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn.jpg" />][linkedin]
+[<img align="left" alt="jamu.me" width="22px" src="https://www.logolynx.com/images/logolynx/fa/fa77dadf2e2e19830c95a972bad9cfb5.png" />][website]
+[<img align="left" alt=" LinkedIn" width="22px" src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" />][linkedin]
 
 </br> 
 
