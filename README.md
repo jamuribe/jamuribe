@@ -5,7 +5,7 @@ I am Antonio and I'm a software engineer based in Barcelona. I'm a hat person an
 ###
 - 🔭 I’m currently working on QR-eceipt and some open projects. I'm a volunteer at [FoldingAtHome](https://foldingathome.org/?lng=en-US)
 - ⚡ Fun fact: I'm an outdoors person. I love hiking, beaching, dancing and learning. 
-- 🌱 I’m learning Python and A.I.
+- 🌱 I’m a student of life and among the many things I'm learning Python, Machine Learning, JS, Vue, Nest and more.
 
 </br> 
 
