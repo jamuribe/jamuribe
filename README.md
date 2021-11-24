@@ -3,7 +3,7 @@ I am Antonio and I'm a software engineer based in Barcelona. I'm a hat person an
 ###
 ![Suspicious](https://media.giphy.com/media/fc736BKuihyj6/giphy.gif)
 ###
-- 🔭 I’m currently working on QR-eceipt and some open projects. I'm a volunteer at [src="https://foldingathome.org/?lng=en-US"][linkedin]
+- 🔭 I’m currently working on QR-eceipt and some open projects. I'm a volunteer at [FoldingAtHome](https://foldingathome.org/?lng=en-US)
 - ⚡ Fun fact: I'm an outdoors person. I love hiking, beaching, dancing and learning. 
 - 🌱 I’m learning Python and A.I.
 
