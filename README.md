@@ -10,8 +10,10 @@ I am Antonio and I'm a software engineer based in Barcelona. I'm a hat person an
 </br> 
 
 ### Connect with me:
-[<img align="left" alt=" LinkedIn" width="22px" src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" />][linkedin]
-
+<!-- [<img align="left" alt=" LinkedIn" width="22px" src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" />][linkedin] -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemouribe/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josemolina.me/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 </br> 
 
 <!--
